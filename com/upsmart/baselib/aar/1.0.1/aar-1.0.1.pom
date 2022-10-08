@@ -248,7 +248,7 @@
       <exclusions>
         <exclusion>
           <artifactId>*</artifactId>
-          <groupId>*</groupId>
+          <groupId>com.upsmart.baselib</groupId>
         </exclusion>
       </exclusions>
     </dependency>
