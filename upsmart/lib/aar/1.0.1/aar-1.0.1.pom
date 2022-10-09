@@ -73,8 +73,8 @@
       <scope>compile</scope>
       <exclusions>
         <exclusion>
-          <artifactId>*</artifactId>
-          <groupId>*</groupId>
+          <artifactId>liteavsdk</artifactId>
+          <groupId>com.tencent.rtmp</groupId>
         </exclusion>
       </exclusions>
     </dependency>
@@ -128,8 +128,8 @@
       <scope>compile</scope>
       <exclusions>
         <exclusion>
-          <artifactId>*</artifactId>
-          <groupId>*</groupId>
+          <artifactId>okhttp3-integration</artifactId>
+          <groupId>com.github.bumptech.glide</groupId>
         </exclusion>
       </exclusions>
     </dependency>
@@ -247,8 +247,8 @@
       <scope>compile</scope>
       <exclusions>
         <exclusion>
-          <artifactId>*</artifactId>
-          <groupId>*</groupId>
+          <artifactId>xmpp</artifactId>
+          <groupId>com.hosmart</groupId>
         </exclusion>
       </exclusions>
     </dependency>
